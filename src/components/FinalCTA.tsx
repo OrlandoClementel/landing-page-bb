@@ -109,9 +109,6 @@ export default function FinalCTA() {
                 </svg>
               ))}
             </div>
-            <p className="text-white/40 text-sm">
-              <strong className="text-white/60">4.9/5</strong> — avaliação de +2.400 estudantes
-            </p>
           </motion.div>
         </motion.div>
       </div>
