@@ -331,7 +331,7 @@ export default function Showcase() {
             variants={fadeInUp}
             className="text-white/50 text-lg max-w-2xl mx-auto"
           >
-            Uma plataforma completa, limpa e intuitiva. Nada de confusão — só o que importa para você passar.
+            Uma plataforma completa, limpa e intuitiva. Nada de confusão, só o que você precisa para adquirir uma base sólida de estudos.
           </motion.p>
         </motion.div>
 
